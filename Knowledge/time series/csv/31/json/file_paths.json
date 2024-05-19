@@ -1,0 +1,17 @@
+{
+    "Summary Statistics ": "Knowledge/time series/csv/31/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/time series/csv/31/graphs/mising_number_plot.png",
+    "Trend graph for BG with CHO": "Knowledge/time series/csv/31/graphs/BG_with_CHO_trend_graph.png",
+    "Trend graph for CGM with CHO": "Knowledge/time series/csv/31/graphs/CGM_with_CHO_trend_graph.png",
+    "Trend graph for CHO with CHO": "Knowledge/time series/csv/31/graphs/CHO_with_CHO_trend_graph.png",
+    "Trend graph for insulin with CHO": "Knowledge/time series/csv/31/graphs/insulin_with_CHO_trend_graph.png",
+    "Trend graph for LBGI with CHO": "Knowledge/time series/csv/31/graphs/LBGI_with_CHO_trend_graph.png",
+    "Trend graph for HBGI with CHO": "Knowledge/time series/csv/31/graphs/HBGI_with_CHO_trend_graph.png",
+    "Trend graph for Risk with CHO": "Knowledge/time series/csv/31/graphs/Risk_with_CHO_trend_graph.png",
+    "Correlation Heatmap ": "Knowledge/time series/csv/31/graphs/heatmap.png",
+    "All correlated Features with dependent Variable ": "Knowledge/time series/csv/31/csv/all_correlated_features_with_CHO.csv",
+    "Graph of most correlated Features with dependent Variable ": "Knowledge/time series/csv/31/graphs/most_correlated_features_with_CHO.png",
+    "Scaler path ": "Knowledge/time series/csv/31/models/scaler_CHO.pkl",
+    "LSTM trained model path": "Knowledge/time series/csv/31/models/LSTM_model_CHO.h5",
+    "LSTM Training loss graph": "Knowledge/time series/csv/31/graphs/LSTM_training_loss_graph_CHO.png"
+}

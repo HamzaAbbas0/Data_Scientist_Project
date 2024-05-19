@@ -1,0 +1,7 @@
+CGM
+CHO
+insulin
+LBGI
+HBGI
+Risk
+Patient

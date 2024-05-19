@@ -1,0 +1,17 @@
+{
+    "Summary Statistics ": "Knowledge/time series/csv/123/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/time series/csv/123/graphs/mising_number_plot.png",
+    "Trend graph for BG with Risk": "Knowledge/time series/csv/123/graphs/BG_with_Risk_trend_graph.png",
+    "Trend graph for CGM with Risk": "Knowledge/time series/csv/123/graphs/CGM_with_Risk_trend_graph.png",
+    "Trend graph for CHO with Risk": "Knowledge/time series/csv/123/graphs/CHO_with_Risk_trend_graph.png",
+    "Trend graph for insulin with Risk": "Knowledge/time series/csv/123/graphs/insulin_with_Risk_trend_graph.png",
+    "Trend graph for LBGI with Risk": "Knowledge/time series/csv/123/graphs/LBGI_with_Risk_trend_graph.png",
+    "Trend graph for HBGI with Risk": "Knowledge/time series/csv/123/graphs/HBGI_with_Risk_trend_graph.png",
+    "Trend graph for Risk with Risk": "Knowledge/time series/csv/123/graphs/Risk_with_Risk_trend_graph.png",
+    "Correlation Heatmap ": "Knowledge/time series/csv/123/graphs/heatmap.png",
+    "All correlated Features with dependent Variable ": "Knowledge/time series/csv/123/csv/all_correlated_features_with_Risk.csv",
+    "Graph of most correlated Features with dependent Variable ": "Knowledge/time series/csv/123/graphs/most_correlated_features_with_Risk.png",
+    "Scaler path ": "Knowledge/time series/csv/123/models/scaler_Risk.pkl",
+    "LSTM trained model path": "Knowledge/time series/csv/123/models/LSTM_model_Risk.h5",
+    "LSTM Training loss graph": "Knowledge/time series/csv/123/graphs/LSTM_training_loss_graph_Risk.png"
+}

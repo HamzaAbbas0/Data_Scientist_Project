@@ -1,0 +1,16 @@
+{
+    "Summary Statistics ": "Knowledge/numerical/csv/47/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/numerical/csv/47/graphs/mising_number_plot.png",
+    "Probability distributions ": "Knowledge/numerical/csv/47/graphs/probability_distributions.png",
+    "Pairwise plots ": "Knowledge/numerical/csv/47/graphs/pairwise_plots.png",
+    "Histogram of two columns ": "Knowledge/numerical/csv/47/graphs/histogram",
+    "Bar charts ": "Knowledge/numerical/csv/47/graphs/bar_chart",
+    "Correlation Heatmap ": "Knowledge/numerical/csv/47/graphs/heatmap.png",
+    "Most correlated Features with dependent Variable ": "Knowledge/numerical/csv/47/csv/most_correlated_features_with_Risk.csv",
+    "Multi-linear Regression Inference plot ": "Knowledge/numerical/csv/47/graphs/true_values_vs_predicted_values_Risk.png",
+    "Multi-linear Regression trained model path ": "Knowledge/numerical/csv/47/models/multi_linear_regression_model_Risk.pkl",
+    "Multi-linear Regression X_scaler path ": "Knowledge/numerical/csv/47/models/scaler_x_Risk.pkl",
+    "Multi-linear Regression y_scaler path ": "Knowledge/numerical/csv/47/models/scaler_y_Risk.pkl",
+    "Multi-linear Regression label encoder path ": "Knowledge/numerical/csv/47/models/label_encoder_Risk.pkl",
+    "Multi-linear Regression column names path ": "Knowledge/numerical/csv/47/models/column_names_Risk.txt"
+}

@@ -1,0 +1,18 @@
+{
+    "Summary Statistics ": "Knowledge/categorical/csv/135/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/categorical/csv/135/graphs/mising_number_plot.png",
+    "Bar charts ": "Knowledge/categorical/csv/135/graphs/bar_chart",
+    "Crosstabs of two columns ": "Knowledge/categorical/csv/135/csv/Crosstab",
+    "Cross tabulation graph of two columns ": "Knowledge/categorical/csv/135/graphs/Cross_tabulation",
+    "Correlation Heatmap ": "Knowledge/categorical/csv/135/graphs/heatmap.png",
+    "Result of Kruskal-Wallis test for feature selection": "Knowledge/categorical/csv/135/csv/Kruskal-Wallis_result.csv",
+    "Most correlated Features with dependent Variable ": "Knowledge/categorical/csv/135/csv/most_correlated_features_with_Subdocument Type Code.csv",
+    "Random Forest Classifier Trained model path ": "Knowledge/categorical/csv/135/models/RFC_model_Subdocument Type Code.joblib",
+    "Random Forest Classifier x scaler path ": "Knowledge/categorical/csv/135/models/scaler_x_Subdocument Type Code.pkl",
+    "Random Forest Classifier label y encoder  path ": "Knowledge/categorical/csv/135/models/y_encoder_Subdocument Type Code.pkl",
+    "Random Forest Classifier label x encoder path ": "Knowledge/categorical/csv/135/models/x_encoder_Subdocument Type Code.pkl",
+    "Random Forest Classifier column names path ": "Knowledge/categorical/csv/135/models/column_names_Subdocument Type Code.txt",
+    "Random Forest Classifier Accuracy ": "Knowledge/categorical/csv/135/models/model_accuracy_Subdocument Type Code.txt",
+    "Random Forest Classifier confusion matrix csv path ": "Knowledge/categorical/csv/135/csv/confusion_matrix_csv_Subdocument Type Code.csv",
+    "Random Forest Classifier confusion matrix graph path ": "Knowledge/categorical/csv/135/graphs/confusion_matrix_Subdocument Type Code.png"
+}

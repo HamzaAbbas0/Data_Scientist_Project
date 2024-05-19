@@ -1,0 +1,23 @@
+{
+    "Summary Statistics ": "Knowledge/time series/csv/119/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/time series/csv/119/graphs/mising_number_plot.png",
+    "Bar charts ": "Knowledge/categorical/csv/118/graphs/bar_chart",
+    "Crosstabs of two columns ": "Knowledge/categorical/csv/118/csv/Crosstab",
+    "Cross tabulation graph of two columns ": "Knowledge/categorical/csv/118/graphs/Cross_tabulation",
+    "Chi-Square statistics ": "Knowledge/categorical/csv/118/csv/chi_square_statistics.csv",
+    "Histogram of two columns ": "Knowledge/categorical/csv/118/graphs/histogram",
+    "Probability distributions ": "Knowledge/categorical/csv/118/graphs/probability_distributions.png",
+    "Trend graph for BG with insulin": "Knowledge/time series/csv/119/graphs/BG_with_insulin_trend_graph.png",
+    "Trend graph for CGM with insulin": "Knowledge/time series/csv/119/graphs/CGM_with_insulin_trend_graph.png",
+    "Trend graph for CHO with insulin": "Knowledge/time series/csv/119/graphs/CHO_with_insulin_trend_graph.png",
+    "Trend graph for insulin with insulin": "Knowledge/time series/csv/119/graphs/insulin_with_insulin_trend_graph.png",
+    "Trend graph for LBGI with insulin": "Knowledge/time series/csv/119/graphs/LBGI_with_insulin_trend_graph.png",
+    "Trend graph for HBGI with insulin": "Knowledge/time series/csv/119/graphs/HBGI_with_insulin_trend_graph.png",
+    "Trend graph for Risk with insulin": "Knowledge/time series/csv/119/graphs/Risk_with_insulin_trend_graph.png",
+    "Correlation Heatmap ": "Knowledge/time series/csv/119/graphs/heatmap.png",
+    "All correlated Features with dependent Variable ": "Knowledge/time series/csv/119/csv/all_correlated_features_with_insulin.csv",
+    "Graph of most correlated Features with dependent Variable ": "Knowledge/time series/csv/119/graphs/most_correlated_features_with_insulin.png",
+    "Scaler path ": "Knowledge/time series/csv/119/models/scaler_insulin.pkl",
+    "LSTM trained model path": "Knowledge/time series/csv/119/models/LSTM_model_insulin.h5",
+    "LSTM Training loss graph": "Knowledge/time series/csv/119/graphs/LSTM_training_loss_graph_insulin.png"
+}

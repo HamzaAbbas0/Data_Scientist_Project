@@ -1,0 +1,17 @@
+{
+    "Summary Statistics ": "Knowledge/time series/csv/161/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/time series/csv/161/graphs/mising_number_plot.png",
+    "Trend graph for BG with BG": "Knowledge/time series/csv/161/graphs/BG_with_BG_trend_graph.png",
+    "Trend graph for CGM with BG": "Knowledge/time series/csv/161/graphs/CGM_with_BG_trend_graph.png",
+    "Trend graph for CHO with BG": "Knowledge/time series/csv/161/graphs/CHO_with_BG_trend_graph.png",
+    "Trend graph for insulin with BG": "Knowledge/time series/csv/161/graphs/insulin_with_BG_trend_graph.png",
+    "Trend graph for LBGI with BG": "Knowledge/time series/csv/161/graphs/LBGI_with_BG_trend_graph.png",
+    "Trend graph for HBGI with BG": "Knowledge/time series/csv/161/graphs/HBGI_with_BG_trend_graph.png",
+    "Trend graph for Risk with BG": "Knowledge/time series/csv/161/graphs/Risk_with_BG_trend_graph.png",
+    "Correlation Heatmap ": "Knowledge/time series/csv/161/graphs/heatmap.png",
+    "All correlated Features with dependent Variable ": "Knowledge/time series/csv/161/csv/all_correlated_features_with_BG.csv",
+    "Graph of most correlated Features with dependent Variable ": "Knowledge/time series/csv/161/graphs/most_correlated_features_with_BG.png",
+    "Scaler path ": "Knowledge/time series/csv/161/models/scaler_BG.pkl",
+    "LSTM trained model path": "Knowledge/time series/csv/161/models/LSTM_model_BG.h5",
+    "LSTM Training loss graph": "Knowledge/time series/csv/161/graphs/LSTM_training_loss_graph_BG.png"
+}

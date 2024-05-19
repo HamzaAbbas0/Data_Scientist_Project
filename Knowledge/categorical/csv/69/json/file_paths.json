@@ -1,0 +1,21 @@
+{
+    "Summary Statistics ": "Knowledge/categorical/csv/69/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/categorical/csv/69/graphs/mising_number_plot.png",
+    "Bar charts ": "Knowledge/categorical/csv/69/graphs/bar_chart",
+    "Crosstabs of two columns ": "Knowledge/categorical/csv/69/csv/Crosstab",
+    "Cross tabulation graph of two columns ": "Knowledge/categorical/csv/69/graphs/Cross_tabulation",
+    "Chi-Square statistics ": "Knowledge/categorical/csv/69/csv/chi_square_statistics.csv",
+    "Histogram of two columns ": "Knowledge/categorical/csv/69/graphs/histogram",
+    "Probability distributions ": "Knowledge/categorical/csv/69/graphs/probability_distributions.png",
+    "Correlation Heatmap ": "Knowledge/categorical/csv/69/graphs/heatmap.png",
+    "Result of Kruskal-Wallis test for feature selection": "Knowledge/categorical/csv/69/csv/Kruskal-Wallis_result.csv",
+    "Most correlated Features with dependent Variable ": "Knowledge/categorical/csv/69/csv/most_correlated_features_with_Patient.csv",
+    "Random Forest Classifier Trained model path ": "Knowledge/categorical/csv/69/models/RFC_model_Patient.joblib",
+    "Random Forest Classifier x scaler path ": "Knowledge/categorical/csv/69/models/scaler_x_Patient.pkl",
+    "Random Forest Classifier label y encoder  path ": "Knowledge/categorical/csv/69/models/y_encoder_Patient.pkl",
+    "Random Forest Classifier label x encoder path ": "Knowledge/categorical/csv/69/models/x_encoder_Patient.pkl",
+    "Random Forest Classifier column names path ": "Knowledge/categorical/csv/69/models/column_names_Patient.txt",
+    "Random Forest Classifier Accuracy ": "Knowledge/categorical/csv/69/models/model_accuracy_Patient.txt",
+    "Random Forest Classifier confusion matrix csv path ": "Knowledge/categorical/csv/69/csv/confusion_matrix_csv_Patient.csv",
+    "Random Forest Classifier confusion matrix graph path ": "Knowledge/categorical/csv/69/graphs/confusion_matrix_Patient.png"
+}

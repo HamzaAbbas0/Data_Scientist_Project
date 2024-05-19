@@ -1,0 +1,7 @@
+BG
+CGM
+CHO
+LBGI
+HBGI
+Risk
+Patient

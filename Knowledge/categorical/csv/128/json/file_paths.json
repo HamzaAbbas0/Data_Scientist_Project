@@ -1,0 +1,10 @@
+{
+    "Random Forest Classifier Trained model path ": "Knowledge/categorical/csv/128/models/RFC_model_Patient.joblib",
+    "Random Forest Classifier x scaler path ": "Knowledge/categorical/csv/128/models/scaler_x_Patient.pkl",
+    "Random Forest Classifier label y encoder  path ": "Knowledge/categorical/csv/128/models/y_encoder_Patient.pkl",
+    "Random Forest Classifier label x encoder path ": "Knowledge/categorical/csv/128/models/x_encoder_Patient.pkl",
+    "Random Forest Classifier column names path ": "Knowledge/categorical/csv/128/models/column_names_Patient.txt",
+    "Random Forest Classifier Accuracy ": "Knowledge/categorical/csv/128/models/model_accuracy_Patient.txt",
+    "Random Forest Classifier confusion matrix csv path ": "Knowledge/categorical/csv/128/csv/confusion_matrix_csv_Patient.csv",
+    "Random Forest Classifier confusion matrix graph path ": "Knowledge/categorical/csv/128/graphs/confusion_matrix_Patient.png"
+}

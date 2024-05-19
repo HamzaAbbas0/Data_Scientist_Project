@@ -1,0 +1,7 @@
+BG
+CGM
+CHO
+insulin
+LBGI
+HBGI
+Patient

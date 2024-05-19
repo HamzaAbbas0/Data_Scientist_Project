@@ -1,0 +1,17 @@
+{
+    "Summary Statistics ": "Knowledge/time series/csv/116/csv/summary_statistics.csv",
+    "Missing number plot before cleaning ": "Knowledge/time series/csv/116/graphs/mising_number_plot.png",
+    "Trend graph for BG with HBGI": "Knowledge/time series/csv/116/graphs/BG_with_HBGI_trend_graph.png",
+    "Trend graph for CGM with HBGI": "Knowledge/time series/csv/116/graphs/CGM_with_HBGI_trend_graph.png",
+    "Trend graph for CHO with HBGI": "Knowledge/time series/csv/116/graphs/CHO_with_HBGI_trend_graph.png",
+    "Trend graph for insulin with HBGI": "Knowledge/time series/csv/116/graphs/insulin_with_HBGI_trend_graph.png",
+    "Trend graph for LBGI with HBGI": "Knowledge/time series/csv/116/graphs/LBGI_with_HBGI_trend_graph.png",
+    "Trend graph for HBGI with HBGI": "Knowledge/time series/csv/116/graphs/HBGI_with_HBGI_trend_graph.png",
+    "Trend graph for Risk with HBGI": "Knowledge/time series/csv/116/graphs/Risk_with_HBGI_trend_graph.png",
+    "Correlation Heatmap ": "Knowledge/time series/csv/116/graphs/heatmap.png",
+    "All correlated Features with dependent Variable ": "Knowledge/time series/csv/116/csv/all_correlated_features_with_HBGI.csv",
+    "Graph of most correlated Features with dependent Variable ": "Knowledge/time series/csv/116/graphs/most_correlated_features_with_HBGI.png",
+    "Scaler path ": "Knowledge/time series/csv/116/models/scaler_HBGI.pkl",
+    "LSTM trained model path": "Knowledge/time series/csv/116/models/LSTM_model_HBGI.h5",
+    "LSTM Training loss graph": "Knowledge/time series/csv/116/graphs/LSTM_training_loss_graph_HBGI.png"
+}
